@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = http://api.whatsapp.com/send?phone=5547988517431
 LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = http://api.whatsapp.com/send?phone=5547988517431
-LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/Cb9XEJluw8_hEBM/review
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = http://api.whatsapp.com/send?phone=5547988517431
 LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/Cb9XEJluw8_hEBM/review
-LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/bierweinpomerode
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/Cb9XEJluw8_hEBM/review
 LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/bierweinpomerode
-LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Bierwein+Pizzaria+e+Restaurante/@-26.7376663,-49.1737137,15z/data=!4m6!3m5!1s0x94dee39e911bdf29:0xe1cfc36e991057bf!8m2!3d-26.7376663!4d-49.1737137!16s%2Fg%2F11fy558g1t?entry=ttu
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/bierweinpomerode
 LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Bierwein+Pizzaria+e+Restaurante/@-26.7376663,-49.1737137,15z/data=!4m6!3m5!1s0x94dee39e911bdf29:0xe1cfc36e991057bf!8m2!3d-26.7376663!4d-49.1737137!16s%2Fg%2F11fy558g1t?entry=ttu
-LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://www.ifood.com.br/delivery/pomerode-sc/bierwein-restaurante-e-pizzaria-centro/5420e9e4-24af-4f62-a5d8-83367769db62
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Bierwein+Pizzaria+e+Restaurante/@-26.7376663,-49.1737137,15z/data=!4m6!3m5!1s0x94dee39e911bdf29:0xe1cfc36e991057bf!8m2!3d-26.7376663!4d-49.1737137!16s%2Fg%2F11fy558g1t?entry=ttu
 LinkBehaviour_5AE78AB1_4B9C_B37E_41B4_FA5671ED0C56.source = https://www.ifood.com.br/delivery/pomerode-sc/bierwein-restaurante-e-pizzaria-centro/5420e9e4-24af-4f62-a5d8-83367769db62
-LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/bierweinpomerode
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://www.ifood.com.br/delivery/pomerode-sc/bierwein-restaurante-e-pizzaria-centro/5420e9e4-24af-4f62-a5d8-83367769db62
 LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/bierweinpomerode
-LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = tel:4733066305
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/bierweinpomerode
 LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = tel:4733066305
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = tel:4733066305
 
 ## Media
 
